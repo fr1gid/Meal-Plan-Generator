@@ -13,3 +13,5 @@ Meal plan generator streamlines the process of choosing what to eat for dinner o
 This program utilizes bs4 and the recipe_scrapers API
 
 This is a web scraper using Delish.com and randomly chooses either a meal that you want right now or can even plan your meals for the week.
+
+Also creates shopping list for the ingredients of the recipes chosen.
